@@ -1,0 +1,1118 @@
+item_base,mod,mod_ilvl,ilvl,chance_at_ilvl
+amulet,You can apply an additional Curse,60,60,0.017857142857142856
+amulet,You can apply an additional Curse,60,84,0.017123287671232876
+amulet,You can apply an additional Curse,60,80,0.017241379310344827
+amulet,+(14-16)% to all Elemental Resistances,1,60,0.03571428571428571
+amulet,+(14-16)% to all Elemental Resistances,1,1,0.11764705882352941
+amulet,+(14-16)% to all Elemental Resistances,1,56,0.03773584905660377
+amulet,+(14-16)% to all Elemental Resistances,1,50,0.04878048780487805
+amulet,+(14-16)% to all Elemental Resistances,1,45,0.05714285714285714
+amulet,+(14-16)% to all Elemental Resistances,1,84,0.03424657534246575
+amulet,+(14-16)% to all Elemental Resistances,1,80,0.034482758620689655
+amulet,(8-10)% increased Attack Speed,1,60,0.03571428571428571
+amulet,(8-10)% increased Attack Speed,1,1,0.11764705882352941
+amulet,(8-10)% increased Attack Speed,1,56,0.03773584905660377
+amulet,(8-10)% increased Attack Speed,1,50,0.04878048780487805
+amulet,(8-10)% increased Attack Speed,1,45,0.05714285714285714
+amulet,(8-10)% increased Attack Speed,1,84,0.03424657534246575
+amulet,(8-10)% increased Attack Speed,1,80,0.034482758620689655
+amulet,(4-5)% Chance to Block Attack Damage,1,60,0.03571428571428571
+amulet,(4-5)% Chance to Block Attack Damage,1,1,0.11764705882352941
+amulet,(4-5)% Chance to Block Attack Damage,1,56,0.03773584905660377
+amulet,(4-5)% Chance to Block Attack Damage,1,50,0.04878048780487805
+amulet,(4-5)% Chance to Block Attack Damage,1,45,0.05714285714285714
+amulet,(4-5)% Chance to Block Attack Damage,1,84,0.03424657534246575
+amulet,(4-5)% Chance to Block Attack Damage,1,80,0.034482758620689655
+amulet,Grants Level 21 Clarity Skill,56,60,0.03571428571428571
+amulet,Grants Level 21 Clarity Skill,56,56,0.03773584905660377
+amulet,Grants Level 21 Clarity Skill,56,84,0.03424657534246575
+amulet,Grants Level 21 Clarity Skill,56,80,0.034482758620689655
+amulet,0.5% of Cold Damage Leeched as Life,50,60,0.03571428571428571
+amulet,0.5% of Cold Damage Leeched as Life,50,56,0.03773584905660377
+amulet,0.5% of Cold Damage Leeched as Life,50,50,0.04878048780487805
+amulet,0.5% of Cold Damage Leeched as Life,50,84,0.03424657534246575
+amulet,0.5% of Cold Damage Leeched as Life,50,80,0.034482758620689655
+amulet,0.5% of Fire Damage Leeched as Life,50,60,0.03571428571428571
+amulet,0.5% of Fire Damage Leeched as Life,50,56,0.03773584905660377
+amulet,0.5% of Fire Damage Leeched as Life,50,50,0.04878048780487805
+amulet,0.5% of Fire Damage Leeched as Life,50,84,0.03424657534246575
+amulet,0.5% of Fire Damage Leeched as Life,50,80,0.034482758620689655
+amulet,Anger has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Anger has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Anger has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Anger has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Anger has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Anger has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Determination has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Determination has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Determination has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Determination has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Determination has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Determination has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Discipline has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Discipline has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Discipline has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Discipline has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Discipline has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Discipline has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Grace has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Grace has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Grace has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Grace has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Grace has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Grace has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Hatred has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Hatred has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Hatred has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Hatred has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Hatred has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Hatred has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Malevolence has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Malevolence has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Malevolence has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Malevolence has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Malevolence has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Malevolence has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Pride has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Pride has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Pride has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Pride has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Pride has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Pride has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Wrath has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Wrath has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Wrath has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Wrath has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Wrath has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Wrath has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,Zealotry has (15-20)% increased Aura Effect,45,60,0.03571428571428571
+amulet,Zealotry has (15-20)% increased Aura Effect,45,56,0.03773584905660377
+amulet,Zealotry has (15-20)% increased Aura Effect,45,50,0.04878048780487805
+amulet,Zealotry has (15-20)% increased Aura Effect,45,45,0.05714285714285714
+amulet,Zealotry has (15-20)% increased Aura Effect,45,84,0.03424657534246575
+amulet,Zealotry has (15-20)% increased Aura Effect,45,80,0.034482758620689655
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,60,0.03571428571428571
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,1,0.11764705882352941
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,56,0.03773584905660377
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,50,0.04878048780487805
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,45,0.05714285714285714
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,84,0.03424657534246575
+amulet,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,80,0.034482758620689655
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,60,0.03571428571428571
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,1,0.11764705882352941
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,56,0.03773584905660377
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,50,0.04878048780487805
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,45,0.05714285714285714
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,84,0.03424657534246575
+amulet,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,80,0.034482758620689655
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,60,0.03571428571428571
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,1,0.11764705882352941
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,56,0.03773584905660377
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,50,0.04878048780487805
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,45,0.05714285714285714
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,84,0.03424657534246575
+amulet,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,80,0.034482758620689655
+amulet,(3-5)% increased Quantity of Items found,84,84,0.00684931506849315
+amulet,(20-30)% increased Rarity of Items found,60,60,0.03571428571428571
+amulet,(20-30)% increased Rarity of Items found,60,84,0.03424657534246575
+amulet,(20-30)% increased Rarity of Items found,60,80,0.034482758620689655
+amulet,0.5% of Lightning Damage Leeched as Life,50,60,0.03571428571428571
+amulet,0.5% of Lightning Damage Leeched as Life,50,56,0.03773584905660377
+amulet,0.5% of Lightning Damage Leeched as Life,50,50,0.04878048780487805
+amulet,0.5% of Lightning Damage Leeched as Life,50,84,0.03424657534246575
+amulet,0.5% of Lightning Damage Leeched as Life,50,80,0.034482758620689655
+amulet,Grants Level 23 Malevolence Skill,56,60,0.03571428571428571
+amulet,Grants Level 23 Malevolence Skill,56,56,0.03773584905660377
+amulet,Grants Level 23 Malevolence Skill,56,84,0.03424657534246575
+amulet,Grants Level 23 Malevolence Skill,56,80,0.034482758620689655
+amulet,+1% to all maximum Resistances,80,84,0.03424657534246575
+amulet,+1% to all maximum Resistances,80,80,0.034482758620689655
+amulet,(8-10)% increased Movement Speed,1,60,0.017857142857142856
+amulet,(8-10)% increased Movement Speed,1,1,0.058823529411764705
+amulet,(8-10)% increased Movement Speed,1,56,0.018867924528301886
+amulet,(8-10)% increased Movement Speed,1,50,0.024390243902439025
+amulet,(8-10)% increased Movement Speed,1,45,0.02857142857142857
+amulet,(8-10)% increased Movement Speed,1,84,0.017123287671232876
+amulet,(8-10)% increased Movement Speed,1,80,0.017241379310344827
+amulet,Grants Level 23 Purity of Ice Skill,56,60,0.03571428571428571
+amulet,Grants Level 23 Purity of Ice Skill,56,56,0.03773584905660377
+amulet,Grants Level 23 Purity of Ice Skill,56,84,0.03424657534246575
+amulet,Grants Level 23 Purity of Ice Skill,56,80,0.034482758620689655
+amulet,Grants Level 23 Purity of Fire Skill,56,60,0.03571428571428571
+amulet,Grants Level 23 Purity of Fire Skill,56,56,0.03773584905660377
+amulet,Grants Level 23 Purity of Fire Skill,56,84,0.03424657534246575
+amulet,Grants Level 23 Purity of Fire Skill,56,80,0.034482758620689655
+amulet,Grants Level 23 Purity of Lightning Skill,56,60,0.03571428571428571
+amulet,Grants Level 23 Purity of Lightning Skill,56,56,0.03773584905660377
+amulet,Grants Level 23 Purity of Lightning Skill,56,84,0.03424657534246575
+amulet,Grants Level 23 Purity of Lightning Skill,56,80,0.034482758620689655
+amulet,Grants Level 21 Purity of Elements Skill,56,60,0.03571428571428571
+amulet,Grants Level 21 Purity of Elements Skill,56,56,0.03773584905660377
+amulet,Grants Level 21 Purity of Elements Skill,56,84,0.03424657534246575
+amulet,Grants Level 21 Purity of Elements Skill,56,80,0.034482758620689655
+amulet,(4-5)% Chance to Block Spell Damage,1,60,0.03571428571428571
+amulet,(4-5)% Chance to Block Spell Damage,1,1,0.11764705882352941
+amulet,(4-5)% Chance to Block Spell Damage,1,56,0.03773584905660377
+amulet,(4-5)% Chance to Block Spell Damage,1,50,0.04878048780487805
+amulet,(4-5)% Chance to Block Spell Damage,1,45,0.05714285714285714
+amulet,(4-5)% Chance to Block Spell Damage,1,84,0.03424657534246575
+amulet,(4-5)% Chance to Block Spell Damage,1,80,0.034482758620689655
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,60,0.03571428571428571
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,1,0.11764705882352941
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,56,0.03773584905660377
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,50,0.04878048780487805
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,45,0.05714285714285714
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,84,0.03424657534246575
+amulet,(20-24)% increased Elemental Damage with Attack Skills,1,80,0.034482758620689655
+body_armour,(3-5)% additional Physical Damage Reduction while stationary,1,1,0.3333333333333333
+body_armour,(3-5)% additional Physical Damage Reduction while stationary,1,80,0.1111111111111111
+body_armour,(3-5)% additional Physical Damage Reduction while stationary,1,45,0.125
+body_armour,(3-5)% additional Physical Damage Reduction while stationary,1,20,0.25
+body_armour,+1 to Level of Socketed Gems,1,1,0.3333333333333333
+body_armour,+1 to Level of Socketed Gems,1,80,0.1111111111111111
+body_armour,+1 to Level of Socketed Gems,1,45,0.125
+body_armour,+1 to Level of Socketed Gems,1,20,0.25
+body_armour,(40-50)% increased Damage,1,1,0.3333333333333333
+body_armour,(40-50)% increased Damage,1,80,0.1111111111111111
+body_armour,(40-50)% increased Damage,1,45,0.125
+body_armour,(40-50)% increased Damage,1,20,0.25
+body_armour,+1% to all maximum Resistances,80,80,0.1111111111111111
+body_armour,(6-4)% reduced Chaos Damage taken,45,80,0.1111111111111111
+body_armour,(6-4)% reduced Chaos Damage taken,45,45,0.125
+body_armour,(6-4)% reduced Cold Damage taken,45,80,0.1111111111111111
+body_armour,(6-4)% reduced Cold Damage taken,45,45,0.125
+body_armour,You take 50% reduced Extra Damage from Critical Strikes,20,80,0.1111111111111111
+body_armour,You take 50% reduced Extra Damage from Critical Strikes,20,45,0.125
+body_armour,You take 50% reduced Extra Damage from Critical Strikes,20,20,0.25
+body_armour,(6-4)% reduced Fire Damage taken,45,80,0.1111111111111111
+body_armour,(6-4)% reduced Fire Damage taken,45,45,0.125
+body_armour,(6-4)% reduced Lightning Damage taken,45,80,0.1111111111111111
+body_armour,(6-4)% reduced Lightning Damage taken,45,45,0.125
+belt,(8-10)% increased Area of Effect,1,1,0.1111111111111111
+belt,(8-10)% increased Area of Effect,1,60,0.043478260869565216
+belt,(8-10)% increased Area of Effect,1,45,0.05555555555555555
+belt,(8-10)% increased Area of Effect,1,84,0.04310344827586207
+belt,+(20-25)% to Critical Strike Multiplier during any Flask Effect,60,60,0.043478260869565216
+belt,+(20-25)% to Critical Strike Multiplier during any Flask Effect,60,84,0.04310344827586207
+belt,+(14-16)% to all Elemental Resistances,1,1,0.1111111111111111
+belt,+(14-16)% to all Elemental Resistances,1,60,0.043478260869565216
+belt,+(14-16)% to all Elemental Resistances,1,45,0.05555555555555555
+belt,+(14-16)% to all Elemental Resistances,1,84,0.04310344827586207
+belt,(8-12)% increased Attack Speed during any Flask Effect,60,60,0.043478260869565216
+belt,(8-12)% increased Attack Speed during any Flask Effect,60,84,0.04310344827586207
+belt,Anger has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Anger has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Anger has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Determination has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Determination has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Determination has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Discipline has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Discipline has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Discipline has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Grace has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Grace has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Grace has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Hatred has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Hatred has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Hatred has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Malevolence has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Malevolence has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Malevolence has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Pride has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Pride has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Pride has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Wrath has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Wrath has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Wrath has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,Zealotry has (15-20)% increased Aura Effect,45,60,0.043478260869565216
+belt,Zealotry has (15-20)% increased Aura Effect,45,45,0.05555555555555555
+belt,Zealotry has (15-20)% increased Aura Effect,45,84,0.04310344827586207
+belt,(8-12)% increased Cast Speed during any Flask Effect,60,60,0.043478260869565216
+belt,(8-12)% increased Cast Speed during any Flask Effect,60,84,0.04310344827586207
+belt,(35-40)% increased Critical Strike Chance during any Flask Effect,1,1,0.1111111111111111
+belt,(35-40)% increased Critical Strike Chance during any Flask Effect,1,60,0.043478260869565216
+belt,(35-40)% increased Critical Strike Chance during any Flask Effect,1,45,0.05555555555555555
+belt,(35-40)% increased Critical Strike Chance during any Flask Effect,1,84,0.04310344827586207
+belt,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,1,0.1111111111111111
+belt,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,60,0.043478260869565216
+belt,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,45,0.05555555555555555
+belt,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,84,0.04310344827586207
+belt,(12-15)% increased Skill Effect Duration,1,1,0.1111111111111111
+belt,(12-15)% increased Skill Effect Duration,1,60,0.043478260869565216
+belt,(12-15)% increased Skill Effect Duration,1,45,0.05555555555555555
+belt,(12-15)% increased Skill Effect Duration,1,84,0.04310344827586207
+belt,(8-10)% increased maximum Energy Shield,1,1,0.1111111111111111
+belt,(8-10)% increased maximum Energy Shield,1,60,0.043478260869565216
+belt,(8-10)% increased maximum Energy Shield,1,45,0.05555555555555555
+belt,(8-10)% increased maximum Energy Shield,1,84,0.04310344827586207
+belt,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,1,0.1111111111111111
+belt,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,60,0.043478260869565216
+belt,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,45,0.05555555555555555
+belt,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,84,0.04310344827586207
+belt,(6-8)% increased maximum Life,1,1,0.1111111111111111
+belt,(6-8)% increased maximum Life,1,60,0.043478260869565216
+belt,(6-8)% increased maximum Life,1,45,0.05555555555555555
+belt,(6-8)% increased maximum Life,1,84,0.04310344827586207
+belt,(8-12)% increased Movement Speed during any Flask Effect,60,60,0.043478260869565216
+belt,(8-12)% increased Movement Speed during any Flask Effect,60,84,0.04310344827586207
+belt,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,1,0.1111111111111111
+belt,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,60,0.043478260869565216
+belt,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,45,0.05555555555555555
+belt,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,84,0.04310344827586207
+belt,(3-5)% increased Quantity of Items found,84,84,0.008620689655172414
+belt,(20-30)% increased Rarity of Items found,60,60,0.043478260869565216
+belt,(20-30)% increased Rarity of Items found,60,84,0.04310344827586207
+boots,+(35-60) Armour while stationary,1,1,0.18181818181818182
+boots,+(35-60) Armour while stationary,1,31,0.13333333333333333
+boots,+(35-60) Armour while stationary,1,75,0.07692307692307693
+boots,+(35-60) Armour while stationary,1,60,0.08333333333333333
+boots,+(35-60) Armour while stationary,1,56,0.125
+boots,+(61-138) Armour while stationary,31,31,0.13333333333333333
+boots,+(61-138) Armour while stationary,31,75,0.07692307692307693
+boots,+(61-138) Armour while stationary,31,60,0.08333333333333333
+boots,+(61-138) Armour while stationary,31,56,0.125
+boots,+(139-322) Armour while stationary,75,75,0.038461538461538464
+boots,+(35-60) to Global Evasion Rating while moving,1,1,0.18181818181818182
+boots,+(35-60) to Global Evasion Rating while moving,1,31,0.13333333333333333
+boots,+(35-60) to Global Evasion Rating while moving,1,75,0.07692307692307693
+boots,+(35-60) to Global Evasion Rating while moving,1,60,0.08333333333333333
+boots,+(35-60) to Global Evasion Rating while moving,1,56,0.125
+boots,+(61-138) to Global Evasion Rating while moving,31,31,0.13333333333333333
+boots,+(61-138) to Global Evasion Rating while moving,31,75,0.07692307692307693
+boots,+(61-138) to Global Evasion Rating while moving,31,60,0.08333333333333333
+boots,+(61-138) to Global Evasion Rating while moving,31,56,0.125
+boots,+(139-322) to Global Evasion Rating while moving,75,75,0.038461538461538464
+boots,(4-6)% chance to Dodge Attack Hits,1,1,0.18181818181818182
+boots,(4-6)% chance to Dodge Attack Hits,1,31,0.13333333333333333
+boots,(4-6)% chance to Dodge Attack Hits,1,75,0.07692307692307693
+boots,(4-6)% chance to Dodge Attack Hits,1,60,0.08333333333333333
+boots,(4-6)% chance to Dodge Attack Hits,1,56,0.125
+boots,(4-6)% chance to Dodge Spell Hits,1,1,0.18181818181818182
+boots,(4-6)% chance to Dodge Spell Hits,1,31,0.13333333333333333
+boots,(4-6)% chance to Dodge Spell Hits,1,75,0.07692307692307693
+boots,(4-6)% chance to Dodge Spell Hits,1,60,0.08333333333333333
+boots,(4-6)% chance to Dodge Spell Hits,1,56,0.125
+boots,(6-10)% chance to Dodge Attack Hits while moving,60,75,0.07692307692307693
+boots,(6-10)% chance to Dodge Attack Hits while moving,60,60,0.08333333333333333
+boots,(6-10)% chance to Dodge Spell Hits while moving,60,75,0.07692307692307693
+boots,(6-10)% chance to Dodge Spell Hits while moving,60,60,0.08333333333333333
+boots,+1 to Level of Socketed Gems,1,1,0.18181818181818182
+boots,+1 to Level of Socketed Gems,1,31,0.13333333333333333
+boots,+1 to Level of Socketed Gems,1,75,0.07692307692307693
+boots,+1 to Level of Socketed Gems,1,60,0.08333333333333333
+boots,+1 to Level of Socketed Gems,1,56,0.125
+boots,Grants Level 21 Haste Skill,56,75,0.038461538461538464
+boots,Grants Level 21 Haste Skill,56,60,0.041666666666666664
+boots,Grants Level 21 Haste Skill,56,56,0.0625
+boots,+1 to Maximum Endurance Charges,60,75,0.07692307692307693
+boots,+1 to Maximum Endurance Charges,60,60,0.08333333333333333
+boots,(8-10)% increased Movement Speed,1,1,0.09090909090909091
+boots,(8-10)% increased Movement Speed,1,31,0.06666666666666667
+boots,(8-10)% increased Movement Speed,1,75,0.038461538461538464
+boots,(8-10)% increased Movement Speed,1,60,0.041666666666666664
+boots,(8-10)% increased Movement Speed,1,56,0.0625
+boots,Regenerate 100 Life per second while moving,60,75,0.07692307692307693
+boots,Regenerate 100 Life per second while moving,60,60,0.08333333333333333
+bow,Bow Attacks fire an additional Arrow,75,75,0.01639344262295082
+bow,Bow Attacks fire an additional Arrow,75,84,0.015444015444015444
+bow,Bow Attacks fire an additional Arrow,75,85,0.01532567049808429
+bow,(9-11)% chance to gain a Frenzy Charge on Kill,1,75,0.08196721311475409
+bow,(9-11)% chance to gain a Frenzy Charge on Kill,1,1,0.1111111111111111
+bow,(9-11)% chance to gain a Frenzy Charge on Kill,1,31,0.08333333333333333
+bow,(9-11)% chance to gain a Frenzy Charge on Kill,1,84,0.07722007722007722
+bow,(9-11)% chance to gain a Frenzy Charge on Kill,1,85,0.07662835249042145
+bow,Adds (8-11) to (17-20) Cold Damage,1,75,0.08196721311475409
+bow,Adds (8-11) to (17-20) Cold Damage,1,1,0.1111111111111111
+bow,Adds (8-11) to (17-20) Cold Damage,1,31,0.08333333333333333
+bow,Adds (8-11) to (17-20) Cold Damage,1,84,0.07722007722007722
+bow,Adds (8-11) to (17-20) Cold Damage,1,85,0.07662835249042145
+bow,Adds (19-23) to (31-38) Cold Damage,31,75,0.08196721311475409
+bow,Adds (19-23) to (31-38) Cold Damage,31,31,0.08333333333333333
+bow,Adds (19-23) to (31-38) Cold Damage,31,84,0.07722007722007722
+bow,Adds (19-23) to (31-38) Cold Damage,31,85,0.07662835249042145
+bow,Adds (22-28) to (39-47) Cold Damage,84,84,0.019305019305019305
+bow,Adds (22-28) to (39-47) Cold Damage,84,85,0.019157088122605363
+bow,Adds (10-15) to (20-23) Fire Damage,1,75,0.08196721311475409
+bow,Adds (10-15) to (20-23) Fire Damage,1,1,0.1111111111111111
+bow,Adds (10-15) to (20-23) Fire Damage,1,31,0.08333333333333333
+bow,Adds (10-15) to (20-23) Fire Damage,1,84,0.07722007722007722
+bow,Adds (10-15) to (20-23) Fire Damage,1,85,0.07662835249042145
+bow,Adds (23-27) to (34-43) Fire Damage,31,75,0.08196721311475409
+bow,Adds (23-27) to (34-43) Fire Damage,31,31,0.08333333333333333
+bow,Adds (23-27) to (34-43) Fire Damage,31,84,0.07722007722007722
+bow,Adds (23-27) to (34-43) Fire Damage,31,85,0.07662835249042145
+bow,Adds (27-34) to (45-53) Fire Damage,84,84,0.019305019305019305
+bow,Adds (27-34) to (45-53) Fire Damage,84,85,0.019157088122605363
+bow,Adds (2-3) to (30-34) Lightning Damage,1,75,0.08196721311475409
+bow,Adds (2-3) to (30-34) Lightning Damage,1,1,0.1111111111111111
+bow,Adds (2-3) to (30-34) Lightning Damage,1,31,0.08333333333333333
+bow,Adds (2-3) to (30-34) Lightning Damage,1,84,0.07722007722007722
+bow,Adds (2-3) to (30-34) Lightning Damage,1,85,0.07662835249042145
+bow,Adds (3-6) to (63-72) Lightning Damage,31,75,0.08196721311475409
+bow,Adds (3-6) to (63-72) Lightning Damage,31,31,0.08333333333333333
+bow,Adds (3-6) to (63-72) Lightning Damage,31,84,0.07722007722007722
+bow,Adds (3-6) to (63-72) Lightning Damage,31,85,0.07662835249042145
+bow,Adds (4-8) to (89-92) Lightning Damage,84,84,0.019305019305019305
+bow,Adds (4-8) to (89-92) Lightning Damage,84,85,0.019157088122605363
+bow,(3-5)% increased Attack Speed,1,75,0.08196721311475409
+bow,(3-5)% increased Attack Speed,1,1,0.1111111111111111
+bow,(3-5)% increased Attack Speed,1,31,0.08333333333333333
+bow,(3-5)% increased Attack Speed,1,84,0.07722007722007722
+bow,(3-5)% increased Attack Speed,1,85,0.07662835249042145
+bow,(14-18)% increased Critical Strike Chance,1,75,0.08196721311475409
+bow,(14-18)% increased Critical Strike Chance,1,1,0.1111111111111111
+bow,(14-18)% increased Critical Strike Chance,1,31,0.08333333333333333
+bow,(14-18)% increased Critical Strike Chance,1,84,0.07722007722007722
+bow,(14-18)% increased Critical Strike Chance,1,85,0.07662835249042145
+bow,(10-15)% increased Physical Damage,1,75,0.08196721311475409
+bow,(10-15)% increased Physical Damage,1,1,0.1111111111111111
+bow,(10-15)% increased Physical Damage,1,31,0.08333333333333333
+bow,(10-15)% increased Physical Damage,1,84,0.07722007722007722
+bow,(10-15)% increased Physical Damage,1,85,0.07662835249042145
+bow,(16-20)% increased Physical Damage,85,85,0.007662835249042145
+bow,Socketed Gems are supported by Level 10 Blind,1,75,0.08196721311475409
+bow,Socketed Gems are supported by Level 10 Blind,1,1,0.1111111111111111
+bow,Socketed Gems are supported by Level 10 Blind,1,31,0.08333333333333333
+bow,Socketed Gems are supported by Level 10 Blind,1,84,0.07722007722007722
+bow,Socketed Gems are supported by Level 10 Blind,1,85,0.07662835249042145
+bow,Socketed Gems are supported by Level 10 Faster Projectiles,1,75,0.08196721311475409
+bow,Socketed Gems are supported by Level 10 Faster Projectiles,1,1,0.1111111111111111
+bow,Socketed Gems are supported by Level 10 Faster Projectiles,1,31,0.08333333333333333
+bow,Socketed Gems are supported by Level 10 Faster Projectiles,1,84,0.07722007722007722
+bow,Socketed Gems are supported by Level 10 Faster Projectiles,1,85,0.07662835249042145
+claw,(9-11)% chance to gain a Frenzy Charge on Kill,1,1,0.2
+claw,(5-7)% chance to gain a Power Charge on Critical Strike,1,1,0.2
+claw,+(8-10)% Chance to Block Attack Damage while Dual Wielding,1,1,0.2
+claw,+(25-30)% to Global Critical Strike Multiplier,1,1,0.2
+claw,(14-18)% increased Critical Strike Chance,1,1,0.2
+dagger,(9-11)% chance to gain a Frenzy Charge on Kill,1,1,0.125
+dagger,(9-11)% chance to gain a Frenzy Charge on Kill,1,31,0.1111111111111111
+dagger,(9-11)% chance to gain a Frenzy Charge on Kill,1,84,0.10810810810810811
+dagger,(5-7)% chance to gain a Power Charge on Critical Strike,1,1,0.125
+dagger,(5-7)% chance to gain a Power Charge on Critical Strike,1,31,0.1111111111111111
+dagger,(5-7)% chance to gain a Power Charge on Critical Strike,1,84,0.10810810810810811
+dagger,+(25-30)% to Global Critical Strike Multiplier,1,1,0.125
+dagger,+(25-30)% to Global Critical Strike Multiplier,1,31,0.1111111111111111
+dagger,+(25-30)% to Global Critical Strike Multiplier,1,84,0.10810810810810811
+dagger,(50-60)% increased Damage over Time,1,1,0.125
+dagger,(50-60)% increased Damage over Time,1,31,0.1111111111111111
+dagger,(50-60)% increased Damage over Time,1,84,0.10810810810810811
+dagger,(50-60)% increased Spell Damage,1,1,0.125
+dagger,(50-60)% increased Spell Damage,1,31,0.1111111111111111
+dagger,(50-60)% increased Spell Damage,1,84,0.10810810810810811
+dagger,Adds (1-2) to (3-5) Chaos Damage,1,1,0.125
+dagger,Adds (1-2) to (3-5) Chaos Damage,1,31,0.1111111111111111
+dagger,Adds (1-2) to (3-5) Chaos Damage,1,84,0.10810810810810811
+dagger,Adds (6-8) to (11-13) Chaos Damage,31,31,0.1111111111111111
+dagger,Adds (6-8) to (11-13) Chaos Damage,31,84,0.10810810810810811
+dagger,Adds (8-11) to (19-23) Chaos Damage,84,84,0.02702702702702703
+dagger,(14-18)% increased Critical Strike Chance,1,1,0.125
+dagger,(14-18)% increased Critical Strike Chance,1,31,0.1111111111111111
+dagger,(14-18)% increased Critical Strike Chance,1,84,0.10810810810810811
+dagger,(10-15)% chance to gain Unholy Might for 3 seconds on Kill,1,1,0.125
+dagger,(10-15)% chance to gain Unholy Might for 3 seconds on Kill,1,31,0.1111111111111111
+dagger,(10-15)% chance to gain Unholy Might for 3 seconds on Kill,1,84,0.10810810810810811
+fishing_rod,You can catch Corrupted Fish,1,1,0.25
+fishing_rod,(10-20)% increased Cast Speed,1,1,0.25
+fishing_rod,(5-10)% increased Quantity of Fish Caught,1,1,0.25
+fishing_rod,(5-10)% increased Rarity of Fish Caught,1,1,0.25
+gloves,Curse Enemies with Level (10-12) Despair on Hit,30,30,0.125
+gloves,Curse Enemies with Level (10-12) Despair on Hit,30,60,0.09090909090909091
+gloves,Curse Enemies with Level (10-12) Elemental Weakness on Hit,30,30,0.125
+gloves,Curse Enemies with Level (10-12) Elemental Weakness on Hit,30,60,0.09090909090909091
+gloves,Curse Enemies with Level (10-12) Enfeeble on Hit,30,30,0.125
+gloves,Curse Enemies with Level (10-12) Enfeeble on Hit,30,60,0.09090909090909091
+gloves,Curse Enemies with Level (10-12) Temporal Chains on Hit,30,30,0.125
+gloves,Curse Enemies with Level (10-12) Temporal Chains on Hit,30,60,0.09090909090909091
+gloves,Curse Enemies with Level (10-12) Vulnerability on Hit,30,30,0.125
+gloves,Curse Enemies with Level (10-12) Vulnerability on Hit,30,60,0.09090909090909091
+gloves,+1 to Level of Socketed Gems,1,30,0.125
+gloves,+1 to Level of Socketed Gems,1,1,0.3333333333333333
+gloves,+1 to Level of Socketed Gems,1,60,0.09090909090909091
+gloves,Attacks have +(0.5-0.8)% to Critical Strike Chance,60,60,0.09090909090909091
+gloves,(8-10)% increased Attack Speed,1,30,0.125
+gloves,(8-10)% increased Attack Speed,1,1,0.3333333333333333
+gloves,(8-10)% increased Attack Speed,1,60,0.09090909090909091
+gloves,(8-10)% increased Cast Speed,1,30,0.125
+gloves,(8-10)% increased Cast Speed,1,1,0.3333333333333333
+gloves,(8-10)% increased Cast Speed,1,60,0.09090909090909091
+gloves,Spells have +(0.5-0.8)% to Critical Strike Chance,60,60,0.09090909090909091
+gloves,+1 to Maximum Frenzy Charges,60,60,0.09090909090909091
+helmet,Cannot be Blinded,1,1,0.16666666666666666
+helmet,Cannot be Blinded,1,50,0.08333333333333333
+helmet,Cannot be Blinded,1,40,0.1111111111111111
+helmet,Cannot be Blinded,1,60,0.07692307692307693
+helmet,0.5% of Cold Damage Leeched as Life,50,50,0.08333333333333333
+helmet,0.5% of Cold Damage Leeched as Life,50,60,0.07692307692307693
+helmet,0.5% of Fire Damage Leeched as Life,50,50,0.08333333333333333
+helmet,0.5% of Fire Damage Leeched as Life,50,60,0.07692307692307693
+helmet,(30-40)% increased Burning Damage,40,50,0.08333333333333333
+helmet,(30-40)% increased Burning Damage,40,40,0.1111111111111111
+helmet,(30-40)% increased Burning Damage,40,60,0.07692307692307693
+helmet,(25-30)% increased Effect of Chill,40,50,0.08333333333333333
+helmet,(25-30)% increased Effect of Chill,40,40,0.1111111111111111
+helmet,(25-30)% increased Effect of Chill,40,60,0.07692307692307693
+helmet,Regenerate (1.6-2)% of Life per second,1,1,0.16666666666666666
+helmet,Regenerate (1.6-2)% of Life per second,1,50,0.08333333333333333
+helmet,Regenerate (1.6-2)% of Life per second,1,40,0.1111111111111111
+helmet,Regenerate (1.6-2)% of Life per second,1,60,0.07692307692307693
+helmet,(25-30)% increased Effect of Shock,40,50,0.08333333333333333
+helmet,(25-30)% increased Effect of Shock,40,40,0.1111111111111111
+helmet,(25-30)% increased Effect of Shock,40,60,0.07692307692307693
+helmet,+2 to Level of Socketed Cold Gems,1,1,0.16666666666666666
+helmet,+2 to Level of Socketed Cold Gems,1,50,0.08333333333333333
+helmet,+2 to Level of Socketed Cold Gems,1,40,0.1111111111111111
+helmet,+2 to Level of Socketed Cold Gems,1,60,0.07692307692307693
+helmet,+2 to Level of Socketed Fire Gems,1,1,0.16666666666666666
+helmet,+2 to Level of Socketed Fire Gems,1,50,0.08333333333333333
+helmet,+2 to Level of Socketed Fire Gems,1,40,0.1111111111111111
+helmet,+2 to Level of Socketed Fire Gems,1,60,0.07692307692307693
+helmet,+2 to Level of Socketed Lightning Gems,1,1,0.16666666666666666
+helmet,+2 to Level of Socketed Lightning Gems,1,50,0.08333333333333333
+helmet,+2 to Level of Socketed Lightning Gems,1,40,0.1111111111111111
+helmet,+2 to Level of Socketed Lightning Gems,1,60,0.07692307692307693
+helmet,0.5% of Lightning Damage Leeched as Life,50,50,0.08333333333333333
+helmet,0.5% of Lightning Damage Leeched as Life,50,60,0.07692307692307693
+helmet,+1 to Maximum Power Charges,60,60,0.07692307692307693
+helmet,Socketed Skill Gems get a 90% Mana Multiplier,1,1,0.16666666666666666
+helmet,Socketed Skill Gems get a 90% Mana Multiplier,1,50,0.08333333333333333
+helmet,Socketed Skill Gems get a 90% Mana Multiplier,1,40,0.1111111111111111
+helmet,Socketed Skill Gems get a 90% Mana Multiplier,1,60,0.07692307692307693
+axe,"20% chance to cause Bleeding on Hit
+(30-40)% increased Attack Damage against Bleeding Enemies",1,1,0.5
+axe,"20% chance to cause Bleeding on Hit
+(30-40)% increased Attack Damage against Bleeding Enemies",1,85,0.3333333333333333
+axe,(10-15)% increased Physical Damage,1,1,0.5
+axe,(10-15)% increased Physical Damage,1,85,0.3333333333333333
+axe,(16-20)% increased Physical Damage,85,85,0.3333333333333333
+mace,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,1,0.5
+mace,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,85,0.3333333333333333
+mace,(10-15)% increased Physical Damage,1,1,0.5
+mace,(10-15)% increased Physical Damage,1,85,0.3333333333333333
+mace,(16-20)% increased Physical Damage,85,85,0.3333333333333333
+sword,(10-15)% increased Physical Damage,1,1,1.0
+sword,(10-15)% increased Physical Damage,1,85,0.3333333333333333
+sword,(10-15)% increased Physical Damage,1,40,0.5
+sword,(16-20)% increased Physical Damage,85,85,0.3333333333333333
+sword,Resolute Technique,40,85,0.3333333333333333
+sword,Resolute Technique,40,40,0.5
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,1,0.14285714285714285
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,31,0.1
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,75,0.059880239520958084
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,80,0.05917159763313609
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,50,0.06666666666666667
+quiver,Adds (6-8) to (13-15) Cold Damage to Bow Attacks,1,40,0.08333333333333333
+quiver,Adds (14-18) to (27-32) Cold Damage to Bow Attacks,31,31,0.1
+quiver,Adds (14-18) to (27-32) Cold Damage to Bow Attacks,31,75,0.059880239520958084
+quiver,Adds (14-18) to (27-32) Cold Damage to Bow Attacks,31,80,0.05917159763313609
+quiver,Adds (14-18) to (27-32) Cold Damage to Bow Attacks,31,50,0.06666666666666667
+quiver,Adds (14-18) to (27-32) Cold Damage to Bow Attacks,31,40,0.08333333333333333
+quiver,Adds (21-25) to (39-44) Cold Damage to Bow Attacks,75,75,0.029940119760479042
+quiver,Adds (21-25) to (39-44) Cold Damage to Bow Attacks,75,80,0.029585798816568046
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,1,0.14285714285714285
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,31,0.1
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,75,0.059880239520958084
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,80,0.05917159763313609
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,50,0.06666666666666667
+quiver,Adds (8-10) to (15-18) Fire Damage to Bow Attacks,1,40,0.08333333333333333
+quiver,Adds (17-22) to (33-39) Fire Damage to Bow Attacks,31,31,0.1
+quiver,Adds (17-22) to (33-39) Fire Damage to Bow Attacks,31,75,0.059880239520958084
+quiver,Adds (17-22) to (33-39) Fire Damage to Bow Attacks,31,80,0.05917159763313609
+quiver,Adds (17-22) to (33-39) Fire Damage to Bow Attacks,31,50,0.06666666666666667
+quiver,Adds (17-22) to (33-39) Fire Damage to Bow Attacks,31,40,0.08333333333333333
+quiver,Adds (21-28) to (42-49) Fire Damage to Bow Attacks,75,75,0.029940119760479042
+quiver,Adds (21-28) to (42-49) Fire Damage to Bow Attacks,75,80,0.029585798816568046
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,1,0.14285714285714285
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,31,0.1
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,75,0.059880239520958084
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,80,0.05917159763313609
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,50,0.06666666666666667
+quiver,Adds (1-2) to (27-28) Lightning Damage to Bow Attacks,1,40,0.08333333333333333
+quiver,Adds (2-5) to (58-61) Lightning Damage to Bow Attacks,31,31,0.1
+quiver,Adds (2-5) to (58-61) Lightning Damage to Bow Attacks,31,75,0.059880239520958084
+quiver,Adds (2-5) to (58-61) Lightning Damage to Bow Attacks,31,80,0.05917159763313609
+quiver,Adds (2-5) to (58-61) Lightning Damage to Bow Attacks,31,50,0.06666666666666667
+quiver,Adds (2-5) to (58-61) Lightning Damage to Bow Attacks,31,40,0.08333333333333333
+quiver,Adds (2-6) to (72-76) Lightning Damage to Bow Attacks,75,75,0.029940119760479042
+quiver,Adds (2-6) to (72-76) Lightning Damage to Bow Attacks,75,80,0.029585798816568046
+quiver,Bow Attacks fire an additional Arrow,75,75,0.011976047904191617
+quiver,Bow Attacks fire an additional Arrow,75,80,0.011834319526627219
+quiver,Skills Chain +1 times,80,80,0.011834319526627219
+quiver,0.5% of Cold Damage Leeched as Life,50,75,0.059880239520958084
+quiver,0.5% of Cold Damage Leeched as Life,50,80,0.05917159763313609
+quiver,0.5% of Cold Damage Leeched as Life,50,50,0.06666666666666667
+quiver,0.5% of Fire Damage Leeched as Life,50,75,0.059880239520958084
+quiver,0.5% of Fire Damage Leeched as Life,50,80,0.05917159763313609
+quiver,0.5% of Fire Damage Leeched as Life,50,50,0.06666666666666667
+quiver,Projectiles deal (20-25)% increased Damage for each time they have Chained,40,75,0.059880239520958084
+quiver,Projectiles deal (20-25)% increased Damage for each time they have Chained,40,80,0.05917159763313609
+quiver,Projectiles deal (20-25)% increased Damage for each time they have Chained,40,50,0.06666666666666667
+quiver,Projectiles deal (20-25)% increased Damage for each time they have Chained,40,40,0.08333333333333333
+quiver,Projectiles deal (8-10)% increased Damage for each Enemy Pierced,40,75,0.059880239520958084
+quiver,Projectiles deal (8-10)% increased Damage for each Enemy Pierced,40,80,0.05917159763313609
+quiver,Projectiles deal (8-10)% increased Damage for each Enemy Pierced,40,50,0.06666666666666667
+quiver,Projectiles deal (8-10)% increased Damage for each Enemy Pierced,40,40,0.08333333333333333
+quiver,0.5% of Lightning Damage Leeched as Life,50,75,0.059880239520958084
+quiver,0.5% of Lightning Damage Leeched as Life,50,80,0.05917159763313609
+quiver,0.5% of Lightning Damage Leeched as Life,50,50,0.06666666666666667
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,1,0.14285714285714285
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,31,0.1
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,75,0.059880239520958084
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,80,0.05917159763313609
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,50,0.06666666666666667
+quiver,Gain (8-12)% of Physical Damage as Extra Cold Damage,1,40,0.08333333333333333
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,1,0.14285714285714285
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,31,0.1
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,75,0.059880239520958084
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,80,0.05917159763313609
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,50,0.06666666666666667
+quiver,Gain (8-12)% of Physical Damage as Extra Fire Damage,1,40,0.08333333333333333
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,1,0.14285714285714285
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,31,0.1
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,75,0.059880239520958084
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,80,0.05917159763313609
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,50,0.06666666666666667
+quiver,Gain (8-12)% of Physical Damage as Extra Lightning Damage,1,40,0.08333333333333333
+quiver,Point Blank,1,1,0.14285714285714285
+quiver,Point Blank,1,31,0.1
+quiver,Point Blank,1,75,0.059880239520958084
+quiver,Point Blank,1,80,0.05917159763313609
+quiver,Point Blank,1,50,0.06666666666666667
+quiver,Point Blank,1,40,0.08333333333333333
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,1,0.11764705882352941
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,31,0.08695652173913043
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,81,0.036036036036036036
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,82,0.03571428571428571
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,83,0.035398230088495575
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,56,0.0392156862745098
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,60,0.03636363636363636
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,85,0.03502626970227671
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,45,0.046511627906976744
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,84,0.0351493848857645
+ring,Adds (3-4) to (7-8) Cold Damage to Spells and Attacks,1,40,0.08333333333333333
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,31,0.08695652173913043
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,81,0.036036036036036036
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,82,0.03571428571428571
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,83,0.035398230088495575
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,56,0.0392156862745098
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,60,0.03636363636363636
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,85,0.03502626970227671
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,45,0.046511627906976744
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,84,0.0351493848857645
+ring,Adds (6-9) to (13-16) Cold Damage to Spells and Attacks,31,40,0.08333333333333333
+ring,Adds (12-16) to (24-28) Cold Damage to Spells and Attacks,81,81,0.009009009009009009
+ring,Adds (12-16) to (24-28) Cold Damage to Spells and Attacks,81,82,0.008928571428571428
+ring,Adds (12-16) to (24-28) Cold Damage to Spells and Attacks,81,83,0.008849557522123894
+ring,Adds (12-16) to (24-28) Cold Damage to Spells and Attacks,81,85,0.008756567425569177
+ring,Adds (12-16) to (24-28) Cold Damage to Spells and Attacks,81,84,0.008787346221441126
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,1,0.11764705882352941
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,31,0.08695652173913043
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,81,0.036036036036036036
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,82,0.03571428571428571
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,83,0.035398230088495575
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,56,0.0392156862745098
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,60,0.03636363636363636
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,85,0.03502626970227671
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,45,0.046511627906976744
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,84,0.0351493848857645
+ring,Adds (3-5) to (7-8) Fire Damage to Spells and Attacks,1,40,0.08333333333333333
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,31,0.08695652173913043
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,81,0.036036036036036036
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,82,0.03571428571428571
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,83,0.035398230088495575
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,56,0.0392156862745098
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,60,0.03636363636363636
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,85,0.03502626970227671
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,45,0.046511627906976744
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,84,0.0351493848857645
+ring,Adds (7-10) to (15-18) Fire Damage to Spells and Attacks,31,40,0.08333333333333333
+ring,Adds (13-18) to (28-33) Fire Damage to Spells and Attacks,82,82,0.008928571428571428
+ring,Adds (13-18) to (28-33) Fire Damage to Spells and Attacks,82,83,0.008849557522123894
+ring,Adds (13-18) to (28-33) Fire Damage to Spells and Attacks,82,85,0.008756567425569177
+ring,Adds (13-18) to (28-33) Fire Damage to Spells and Attacks,82,84,0.008787346221441126
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,1,0.11764705882352941
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,31,0.08695652173913043
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,81,0.036036036036036036
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,82,0.03571428571428571
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,83,0.035398230088495575
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,56,0.0392156862745098
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,60,0.03636363636363636
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,85,0.03502626970227671
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,45,0.046511627906976744
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,84,0.0351493848857645
+ring,Adds 1 to (14-15) Lightning Damage to Spells and Attacks,1,40,0.08333333333333333
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,31,0.08695652173913043
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,81,0.036036036036036036
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,82,0.03571428571428571
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,83,0.035398230088495575
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,56,0.0392156862745098
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,60,0.03636363636363636
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,85,0.03502626970227671
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,45,0.046511627906976744
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,84,0.0351493848857645
+ring,Adds (1-2) to (27-28) Lightning Damage to Spells and Attacks,31,40,0.08333333333333333
+ring,Adds (1-5) to (50-52) Lightning Damage to Spells and Attacks,83,83,0.008849557522123894
+ring,Adds (1-5) to (50-52) Lightning Damage to Spells and Attacks,83,85,0.008756567425569177
+ring,Adds (1-5) to (50-52) Lightning Damage to Spells and Attacks,83,84,0.008787346221441126
+ring,+(14-16)% to all Elemental Resistances,1,1,0.11764705882352941
+ring,+(14-16)% to all Elemental Resistances,1,31,0.08695652173913043
+ring,+(14-16)% to all Elemental Resistances,1,81,0.036036036036036036
+ring,+(14-16)% to all Elemental Resistances,1,82,0.03571428571428571
+ring,+(14-16)% to all Elemental Resistances,1,83,0.035398230088495575
+ring,+(14-16)% to all Elemental Resistances,1,56,0.0392156862745098
+ring,+(14-16)% to all Elemental Resistances,1,60,0.03636363636363636
+ring,+(14-16)% to all Elemental Resistances,1,85,0.03502626970227671
+ring,+(14-16)% to all Elemental Resistances,1,45,0.046511627906976744
+ring,+(14-16)% to all Elemental Resistances,1,84,0.0351493848857645
+ring,+(14-16)% to all Elemental Resistances,1,40,0.08333333333333333
+ring,Grants Level 21 Anger Skill,56,81,0.018018018018018018
+ring,Grants Level 21 Anger Skill,56,82,0.017857142857142856
+ring,Grants Level 21 Anger Skill,56,83,0.017699115044247787
+ring,Grants Level 21 Anger Skill,56,56,0.0196078431372549
+ring,Grants Level 21 Anger Skill,56,60,0.01818181818181818
+ring,Grants Level 21 Anger Skill,56,85,0.017513134851138354
+ring,Grants Level 21 Anger Skill,56,84,0.01757469244288225
+ring,Cannot be Ignited,60,81,0.018018018018018018
+ring,Cannot be Ignited,60,82,0.017857142857142856
+ring,Cannot be Ignited,60,83,0.017699115044247787
+ring,Cannot be Ignited,60,60,0.01818181818181818
+ring,Cannot be Ignited,60,85,0.017513134851138354
+ring,Cannot be Ignited,60,84,0.01757469244288225
+ring,Cannot be Poisoned,60,81,0.018018018018018018
+ring,Cannot be Poisoned,60,82,0.017857142857142856
+ring,Cannot be Poisoned,60,83,0.017699115044247787
+ring,Cannot be Poisoned,60,60,0.01818181818181818
+ring,Cannot be Poisoned,60,85,0.017513134851138354
+ring,Cannot be Poisoned,60,84,0.01757469244288225
+ring,Bleeding cannot be inflicted on you,85,85,0.0035026269702276708
+ring,Grants Level 23 Conductivity Skill,56,81,0.018018018018018018
+ring,Grants Level 23 Conductivity Skill,56,82,0.017857142857142856
+ring,Grants Level 23 Conductivity Skill,56,83,0.017699115044247787
+ring,Grants Level 23 Conductivity Skill,56,56,0.0196078431372549
+ring,Grants Level 23 Conductivity Skill,56,60,0.01818181818181818
+ring,Grants Level 23 Conductivity Skill,56,85,0.017513134851138354
+ring,Grants Level 23 Conductivity Skill,56,84,0.01757469244288225
+ring,Grants Level 23 Despair Skill,56,81,0.018018018018018018
+ring,Grants Level 23 Despair Skill,56,82,0.017857142857142856
+ring,Grants Level 23 Despair Skill,56,83,0.017699115044247787
+ring,Grants Level 23 Despair Skill,56,56,0.0196078431372549
+ring,Grants Level 23 Despair Skill,56,60,0.01818181818181818
+ring,Grants Level 23 Despair Skill,56,85,0.017513134851138354
+ring,Grants Level 23 Despair Skill,56,84,0.01757469244288225
+ring,Grants Level 23 Flammability Skill,56,81,0.018018018018018018
+ring,Grants Level 23 Flammability Skill,56,82,0.017857142857142856
+ring,Grants Level 23 Flammability Skill,56,83,0.017699115044247787
+ring,Grants Level 23 Flammability Skill,56,56,0.0196078431372549
+ring,Grants Level 23 Flammability Skill,56,60,0.01818181818181818
+ring,Grants Level 23 Flammability Skill,56,85,0.017513134851138354
+ring,Grants Level 23 Flammability Skill,56,84,0.01757469244288225
+ring,Grants Level 23 Frostbite Skill,56,81,0.018018018018018018
+ring,Grants Level 23 Frostbite Skill,56,82,0.017857142857142856
+ring,Grants Level 23 Frostbite Skill,56,83,0.017699115044247787
+ring,Grants Level 23 Frostbite Skill,56,56,0.0196078431372549
+ring,Grants Level 23 Frostbite Skill,56,60,0.01818181818181818
+ring,Grants Level 23 Frostbite Skill,56,85,0.017513134851138354
+ring,Grants Level 23 Frostbite Skill,56,84,0.01757469244288225
+ring,Grants Level 21 Hatred Skill,56,81,0.018018018018018018
+ring,Grants Level 21 Hatred Skill,56,82,0.017857142857142856
+ring,Grants Level 21 Hatred Skill,56,83,0.017699115044247787
+ring,Grants Level 21 Hatred Skill,56,56,0.0196078431372549
+ring,Grants Level 21 Hatred Skill,56,60,0.01818181818181818
+ring,Grants Level 21 Hatred Skill,56,85,0.017513134851138354
+ring,Grants Level 21 Hatred Skill,56,84,0.01757469244288225
+ring,(8-10)% increased Attack Speed,1,1,0.058823529411764705
+ring,(8-10)% increased Attack Speed,1,31,0.043478260869565216
+ring,(8-10)% increased Attack Speed,1,81,0.018018018018018018
+ring,(8-10)% increased Attack Speed,1,82,0.017857142857142856
+ring,(8-10)% increased Attack Speed,1,83,0.017699115044247787
+ring,(8-10)% increased Attack Speed,1,56,0.0196078431372549
+ring,(8-10)% increased Attack Speed,1,60,0.01818181818181818
+ring,(8-10)% increased Attack Speed,1,85,0.017513134851138354
+ring,(8-10)% increased Attack Speed,1,45,0.023255813953488372
+ring,(8-10)% increased Attack Speed,1,84,0.01757469244288225
+ring,(8-10)% increased Attack Speed,1,40,0.041666666666666664
+ring,Anger has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Anger has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Anger has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Anger has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Anger has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Anger has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Anger has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Anger has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Determination has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Determination has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Determination has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Determination has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Determination has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Determination has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Determination has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Determination has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Discipline has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Discipline has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Discipline has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Discipline has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Discipline has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Discipline has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Discipline has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Discipline has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Grace has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Grace has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Grace has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Grace has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Grace has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Grace has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Grace has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Grace has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Hatred has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Hatred has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Hatred has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Hatred has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Hatred has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Hatred has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Hatred has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Hatred has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Malevolence has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Malevolence has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Malevolence has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Malevolence has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Malevolence has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Malevolence has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Malevolence has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Malevolence has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Pride has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Pride has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Pride has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Pride has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Pride has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Pride has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Pride has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Pride has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Wrath has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Wrath has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Wrath has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Wrath has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Wrath has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Wrath has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Wrath has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Wrath has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,Zealotry has (15-20)% increased Aura Effect,45,81,0.036036036036036036
+ring,Zealotry has (15-20)% increased Aura Effect,45,82,0.03571428571428571
+ring,Zealotry has (15-20)% increased Aura Effect,45,83,0.035398230088495575
+ring,Zealotry has (15-20)% increased Aura Effect,45,56,0.0392156862745098
+ring,Zealotry has (15-20)% increased Aura Effect,45,60,0.03636363636363636
+ring,Zealotry has (15-20)% increased Aura Effect,45,85,0.03502626970227671
+ring,Zealotry has (15-20)% increased Aura Effect,45,45,0.046511627906976744
+ring,Zealotry has (15-20)% increased Aura Effect,45,84,0.0351493848857645
+ring,(8-10)% increased Cast Speed,1,1,0.058823529411764705
+ring,(8-10)% increased Cast Speed,1,31,0.043478260869565216
+ring,(8-10)% increased Cast Speed,1,81,0.018018018018018018
+ring,(8-10)% increased Cast Speed,1,82,0.017857142857142856
+ring,(8-10)% increased Cast Speed,1,83,0.017699115044247787
+ring,(8-10)% increased Cast Speed,1,56,0.0196078431372549
+ring,(8-10)% increased Cast Speed,1,60,0.01818181818181818
+ring,(8-10)% increased Cast Speed,1,85,0.017513134851138354
+ring,(8-10)% increased Cast Speed,1,45,0.023255813953488372
+ring,(8-10)% increased Cast Speed,1,84,0.01757469244288225
+ring,(8-10)% increased Cast Speed,1,40,0.041666666666666664
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,1,0.11764705882352941
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,31,0.08695652173913043
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,81,0.036036036036036036
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,82,0.03571428571428571
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,83,0.035398230088495575
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,56,0.0392156862745098
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,60,0.03636363636363636
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,85,0.03502626970227671
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,45,0.046511627906976744
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,84,0.0351493848857645
+ring,"(4-6)% increased Dexterity
+(4-6)% increased Strength",1,40,0.08333333333333333
+ring,(15-25)% increased Global Physical Damage,1,1,0.058823529411764705
+ring,(15-25)% increased Global Physical Damage,1,31,0.043478260869565216
+ring,(15-25)% increased Global Physical Damage,1,81,0.018018018018018018
+ring,(15-25)% increased Global Physical Damage,1,82,0.017857142857142856
+ring,(15-25)% increased Global Physical Damage,1,83,0.017699115044247787
+ring,(15-25)% increased Global Physical Damage,1,56,0.0196078431372549
+ring,(15-25)% increased Global Physical Damage,1,60,0.01818181818181818
+ring,(15-25)% increased Global Physical Damage,1,85,0.017513134851138354
+ring,(15-25)% increased Global Physical Damage,1,45,0.023255813953488372
+ring,(15-25)% increased Global Physical Damage,1,84,0.01757469244288225
+ring,(15-25)% increased Global Physical Damage,1,40,0.041666666666666664
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,1,0.11764705882352941
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,31,0.08695652173913043
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,81,0.036036036036036036
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,82,0.03571428571428571
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,83,0.035398230088495575
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,56,0.0392156862745098
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,60,0.03636363636363636
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,85,0.03502626970227671
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,45,0.046511627906976744
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,84,0.0351493848857645
+ring,"(4-6)% increased Intelligence
+(4-6)% increased Dexterity",1,40,0.08333333333333333
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,1,0.11764705882352941
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,31,0.08695652173913043
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,81,0.036036036036036036
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,82,0.03571428571428571
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,83,0.035398230088495575
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,56,0.0392156862745098
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,60,0.03636363636363636
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,85,0.03502626970227671
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,45,0.046511627906976744
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,84,0.0351493848857645
+ring,"(4-6)% increased Strength
+(4-6)% increased Intelligence",1,40,0.08333333333333333
+ring,(3-5)% increased Quantity of Items found,84,85,0.0070052539404553416
+ring,(3-5)% increased Quantity of Items found,84,84,0.007029876977152899
+ring,(20-30)% increased Rarity of Items found,60,81,0.036036036036036036
+ring,(20-30)% increased Rarity of Items found,60,82,0.03571428571428571
+ring,(20-30)% increased Rarity of Items found,60,83,0.035398230088495575
+ring,(20-30)% increased Rarity of Items found,60,60,0.03636363636363636
+ring,(20-30)% increased Rarity of Items found,60,85,0.03502626970227671
+ring,(20-30)% increased Rarity of Items found,60,84,0.0351493848857645
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,81,0.018018018018018018
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,82,0.017857142857142856
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,83,0.017699115044247787
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,56,0.0196078431372549
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,60,0.01818181818181818
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,85,0.017513134851138354
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,45,0.023255813953488372
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,84,0.01757469244288225
+ring,+(4-6) Mana gained for each Enemy hit by your Attacks,40,40,0.041666666666666664
+ring,Grants Level 21 Pride Skill,56,81,0.018018018018018018
+ring,Grants Level 21 Pride Skill,56,82,0.017857142857142856
+ring,Grants Level 21 Pride Skill,56,83,0.017699115044247787
+ring,Grants Level 21 Pride Skill,56,56,0.0196078431372549
+ring,Grants Level 21 Pride Skill,56,60,0.01818181818181818
+ring,Grants Level 21 Pride Skill,56,85,0.017513134851138354
+ring,Grants Level 21 Pride Skill,56,84,0.01757469244288225
+ring,Grants Level 21 Wrath Skill,45,81,0.018018018018018018
+ring,Grants Level 21 Wrath Skill,45,82,0.017857142857142856
+ring,Grants Level 21 Wrath Skill,45,83,0.017699115044247787
+ring,Grants Level 21 Wrath Skill,45,56,0.0196078431372549
+ring,Grants Level 21 Wrath Skill,45,60,0.01818181818181818
+ring,Grants Level 21 Wrath Skill,45,85,0.017513134851138354
+ring,Grants Level 21 Wrath Skill,45,45,0.023255813953488372
+ring,Grants Level 21 Wrath Skill,45,84,0.01757469244288225
+ring,Grants Level 23 Zealotry Skill,56,81,0.018018018018018018
+ring,Grants Level 23 Zealotry Skill,56,82,0.017857142857142856
+ring,Grants Level 23 Zealotry Skill,56,83,0.017699115044247787
+ring,Grants Level 23 Zealotry Skill,56,56,0.0196078431372549
+ring,Grants Level 23 Zealotry Skill,56,60,0.01818181818181818
+ring,Grants Level 23 Zealotry Skill,56,85,0.017513134851138354
+ring,Grants Level 23 Zealotry Skill,56,84,0.01757469244288225
+rapier,Skills fire an additional Projectile,1,1,0.25
+rapier,Damage Penetrates (8-10)% Elemental Resistances,1,1,0.25
+rapier,Gain a Frenzy Charge after Spending a total of 200 Mana,1,1,0.25
+rapier,(14-18)% increased Critical Strike Chance,1,1,0.25
+sceptre,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,1,0.25
+sceptre,(5-7)% chance to gain a Power Charge on Critical Strike,1,1,0.25
+sceptre,(12-15)% increased Cast Speed,1,1,0.25
+sceptre,(14-18)% increased Critical Strike Chance,1,1,0.25
+shield,Grants Level 23 Determination Skill,56,56,0.04757822546078011
+shield,Grants Level 23 Determination Skill,56,60,0.027752312692724393
+shield,Grants Level 23 Discipline Skill,56,56,0.04757822546078011
+shield,Grants Level 23 Discipline Skill,56,60,0.027752312692724393
+shield,+1 to Level of Socketed Gems,1,56,0.1428775539362766
+shield,+1 to Level of Socketed Gems,1,1,0.3333333333333333
+shield,+1 to Level of Socketed Gems,1,60,0.08334027835652971
+shield,+1 to Level of Socketed Gems,1,20,0.16666666666666666
+shield,Grants Level 23 Grace Skill,56,56,0.04757822546078011
+shield,Grants Level 23 Grace Skill,56,60,0.027752312692724393
+shield,+(4-5)% Chance to Block,1,56,0.1428775539362766
+shield,+(4-5)% Chance to Block,1,1,0.3333333333333333
+shield,+(4-5)% Chance to Block,1,60,0.08334027835652971
+shield,+(4-5)% Chance to Block,1,20,0.16666666666666666
+shield,+1% to maximum Chance to Block Attack Damage,60,60,0.08334027835652971
+shield,(6-8)% of Physical Damage from Hits taken as Chaos Damage,60,60,0.08334027835652971
+shield,(6-8)% of Physical Damage from Hits taken as Cold Damage,60,60,0.08334027835652971
+shield,(6-8)% of Physical Damage from Hits taken as Fire Damage,60,60,0.08334027835652971
+shield,(6-8)% of Physical Damage from Hits taken as Lightning Damage,60,60,0.08334027835652971
+shield,(6-4)% reduced Area Damage taken from Hits,20,56,0.1428775539362766
+shield,(6-4)% reduced Area Damage taken from Hits,20,60,0.08334027835652971
+shield,(6-4)% reduced Area Damage taken from Hits,20,20,0.16666666666666666
+shield,(6-4)% reduced Damage taken from Projectiles,20,56,0.1428775539362766
+shield,(6-4)% reduced Damage taken from Projectiles,20,60,0.08334027835652971
+shield,(6-4)% reduced Damage taken from Projectiles,20,20,0.16666666666666666
+shield,You take (20-30)% reduced Extra Damage from Critical Strikes,20,56,0.1428775539362766
+shield,You take (20-30)% reduced Extra Damage from Critical Strikes,20,60,0.08334027835652971
+shield,You take (20-30)% reduced Extra Damage from Critical Strikes,20,20,0.16666666666666666
+shield,(4-5)% Chance to Block Spell Damage,1,56,0.1428775539362766
+shield,(4-5)% Chance to Block Spell Damage,1,1,0.3333333333333333
+shield,(4-5)% Chance to Block Spell Damage,1,60,0.08334027835652971
+shield,(4-5)% Chance to Block Spell Damage,1,20,0.16666666666666666
+staff,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,1,0.14285714285714285
+staff,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,31,0.1
+staff,(5-7)% chance to gain an Endurance Charge when you Stun an Enemy,1,84,0.09302325581395349
+staff,(5-7)% chance to gain a Power Charge on Critical Strike,1,1,0.14285714285714285
+staff,(5-7)% chance to gain a Power Charge on Critical Strike,1,31,0.1
+staff,(5-7)% chance to gain a Power Charge on Critical Strike,1,84,0.09302325581395349
+staff,(12-15)% increased Cast Speed,1,1,0.14285714285714285
+staff,(12-15)% increased Cast Speed,1,31,0.1
+staff,(12-15)% increased Cast Speed,1,84,0.09302325581395349
+staff,Adds (8-11) to (17-20) Cold Damage,1,1,0.14285714285714285
+staff,Adds (8-11) to (17-20) Cold Damage,1,31,0.1
+staff,Adds (8-11) to (17-20) Cold Damage,1,84,0.09302325581395349
+staff,Adds (19-23) to (31-38) Cold Damage,31,31,0.1
+staff,Adds (19-23) to (31-38) Cold Damage,31,84,0.09302325581395349
+staff,Adds (22-28) to (39-47) Cold Damage,84,84,0.023255813953488372
+staff,Adds (10-15) to (20-23) Fire Damage,1,1,0.14285714285714285
+staff,Adds (10-15) to (20-23) Fire Damage,1,31,0.1
+staff,Adds (10-15) to (20-23) Fire Damage,1,84,0.09302325581395349
+staff,Adds (23-27) to (34-43) Fire Damage,31,31,0.1
+staff,Adds (23-27) to (34-43) Fire Damage,31,84,0.09302325581395349
+staff,Adds (27-34) to (45-53) Fire Damage,84,84,0.023255813953488372
+staff,Adds (2-3) to (30-34) Lightning Damage,1,1,0.14285714285714285
+staff,Adds (2-3) to (30-34) Lightning Damage,1,31,0.1
+staff,Adds (2-3) to (30-34) Lightning Damage,1,84,0.09302325581395349
+staff,Adds (3-6) to (63-72) Lightning Damage,31,31,0.1
+staff,Adds (3-6) to (63-72) Lightning Damage,31,84,0.09302325581395349
+staff,Adds (4-8) to (89-92) Lightning Damage,84,84,0.023255813953488372
+staff,(14-18)% increased Critical Strike Chance,1,1,0.14285714285714285
+staff,(14-18)% increased Critical Strike Chance,1,31,0.1
+staff,(14-18)% increased Critical Strike Chance,1,84,0.09302325581395349
+two_hand_weapon,(25-30)% increased Area of Effect,1,1,0.1111111111111111
+two_hand_weapon,(25-30)% increased Area of Effect,1,31,0.1
+two_hand_weapon,(25-30)% increased Area of Effect,1,84,0.08888888888888889
+two_hand_weapon,(25-30)% increased Area of Effect,1,70,0.09090909090909091
+two_hand_weapon,Adds 1 to (2-3) Physical Damage,1,1,0.1111111111111111
+two_hand_weapon,Adds 1 to (2-3) Physical Damage,1,31,0.1
+two_hand_weapon,Adds 1 to (2-3) Physical Damage,1,84,0.08888888888888889
+two_hand_weapon,Adds 1 to (2-3) Physical Damage,1,70,0.09090909090909091
+two_hand_weapon,Adds (4-5) to (6-8) Physical Damage,31,31,0.1
+two_hand_weapon,Adds (4-5) to (6-8) Physical Damage,31,84,0.08888888888888889
+two_hand_weapon,Adds (4-5) to (6-8) Physical Damage,31,70,0.09090909090909091
+two_hand_weapon,Adds (8-9) to (11-13) Physical Damage,84,84,0.022222222222222223
+two_hand_weapon,(5-7)% increased Attack Speed,70,84,0.08888888888888889
+two_hand_weapon,(5-7)% increased Attack Speed,70,70,0.09090909090909091
+two_hand_weapon,+(1-2) to Weapon range,1,1,0.1111111111111111
+two_hand_weapon,+(1-2) to Weapon range,1,31,0.1
+two_hand_weapon,+(1-2) to Weapon range,1,84,0.08888888888888889
+two_hand_weapon,+(1-2) to Weapon range,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are supported by Level 10 Additional Accuracy,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are supported by Level 10 Additional Accuracy,1,31,0.1
+two_hand_weapon,Socketed Gems are supported by Level 10 Additional Accuracy,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are supported by Level 10 Additional Accuracy,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are Supported by Level 1 Blood Magic,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are Supported by Level 1 Blood Magic,1,31,0.1
+two_hand_weapon,Socketed Gems are Supported by Level 1 Blood Magic,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are Supported by Level 1 Blood Magic,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are Supported by Level 10 Fortify,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are Supported by Level 10 Fortify,1,31,0.1
+two_hand_weapon,Socketed Gems are Supported by Level 10 Fortify,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are Supported by Level 10 Fortify,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are Supported by Level 10 Life Gain On Hit,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are Supported by Level 10 Life Gain On Hit,1,31,0.1
+two_hand_weapon,Socketed Gems are Supported by Level 10 Life Gain On Hit,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are Supported by Level 10 Life Gain On Hit,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are Supported by Level 10 Onslaught,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are Supported by Level 10 Onslaught,1,31,0.1
+two_hand_weapon,Socketed Gems are Supported by Level 10 Onslaught,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are Supported by Level 10 Onslaught,1,70,0.09090909090909091
+two_hand_weapon,Socketed Gems are Supported by Level 10 Inspiration,1,1,0.1111111111111111
+two_hand_weapon,Socketed Gems are Supported by Level 10 Inspiration,1,31,0.1
+two_hand_weapon,Socketed Gems are Supported by Level 10 Inspiration,1,84,0.08888888888888889
+two_hand_weapon,Socketed Gems are Supported by Level 10 Inspiration,1,70,0.09090909090909091
+one_hand_weapon,(10-15)% chance to Fortify on Melee hit,1,1,0.125
+one_hand_weapon,(10-15)% chance to Fortify on Melee hit,1,31,0.08333333333333333
+one_hand_weapon,(10-15)% chance to Fortify on Melee hit,1,84,0.07692307692307693
+one_hand_weapon,(10-15)% chance to gain Onslaught for 4 seconds on Kill,1,1,0.125
+one_hand_weapon,(10-15)% chance to gain Onslaught for 4 seconds on Kill,1,31,0.08333333333333333
+one_hand_weapon,(10-15)% chance to gain Onslaught for 4 seconds on Kill,1,84,0.07692307692307693
+one_hand_weapon,(15-20)% increased Area of Effect,1,1,0.125
+one_hand_weapon,(15-20)% increased Area of Effect,1,31,0.08333333333333333
+one_hand_weapon,(15-20)% increased Area of Effect,1,84,0.07692307692307693
+one_hand_weapon,Adds (6-8) to (13-15) Cold Damage,1,1,0.125
+one_hand_weapon,Adds (6-8) to (13-15) Cold Damage,1,31,0.08333333333333333
+one_hand_weapon,Adds (6-8) to (13-15) Cold Damage,1,84,0.07692307692307693
+one_hand_weapon,Adds (14-18) to (27-32) Cold Damage,31,31,0.08333333333333333
+one_hand_weapon,Adds (14-18) to (27-32) Cold Damage,31,84,0.07692307692307693
+one_hand_weapon,Adds (17-23) to (24-40) Cold Damage,84,84,0.019230769230769232
+one_hand_weapon,Adds (8-10) to (15-18) Fire Damage,1,1,0.125
+one_hand_weapon,Adds (8-10) to (15-18) Fire Damage,1,31,0.08333333333333333
+one_hand_weapon,Adds (8-10) to (15-18) Fire Damage,1,84,0.07692307692307693
+one_hand_weapon,Adds (17-22) to (33-39) Fire Damage,31,31,0.08333333333333333
+one_hand_weapon,Adds (17-22) to (33-39) Fire Damage,31,84,0.07692307692307693
+one_hand_weapon,Adds (21-28) to (40-48) Fire Damage,84,84,0.019230769230769232
+one_hand_weapon,Adds (1-2) to (27-28) Lightning Damage,1,1,0.125
+one_hand_weapon,Adds (1-2) to (27-28) Lightning Damage,1,31,0.08333333333333333
+one_hand_weapon,Adds (1-2) to (27-28) Lightning Damage,1,84,0.07692307692307693
+one_hand_weapon,Adds (2-5) to (58-61) Lightning Damage,31,31,0.08333333333333333
+one_hand_weapon,Adds (2-5) to (58-61) Lightning Damage,31,84,0.07692307692307693
+one_hand_weapon,Adds (2-6) to (72-76) Lightning Damage,84,84,0.019230769230769232
+one_hand_weapon,Adds 1 to 2 Physical Damage,1,1,0.125
+one_hand_weapon,Adds 1 to 2 Physical Damage,1,31,0.08333333333333333
+one_hand_weapon,Adds 1 to 2 Physical Damage,1,84,0.07692307692307693
+one_hand_weapon,Adds (3-4) to (5-7) Physical Damage,31,31,0.08333333333333333
+one_hand_weapon,Adds (3-4) to (5-7) Physical Damage,31,84,0.07692307692307693
+one_hand_weapon,Adds (5-7) to (10-12) Physical Damage,84,84,0.019230769230769232
+one_hand_weapon,(5-7)% increased Attack Speed,1,1,0.125
+one_hand_weapon,(5-7)% increased Attack Speed,1,31,0.08333333333333333
+one_hand_weapon,(5-7)% increased Attack Speed,1,84,0.07692307692307693
+wand,(5-7)% chance to gain a Power Charge on Critical Strike,1,1,0.2
+wand,Damage Penetrates (8-10)% Elemental Resistances,1,1,0.2
+wand,(3-5)% increased Attack Speed,1,1,0.2
+wand,(14-18)% increased Critical Strike Chance,1,1,0.2
+wand,(10-15)% chance to gain Unholy Might for 3 seconds on Kill,1,1,0.2

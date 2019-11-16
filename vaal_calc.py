@@ -23,6 +23,7 @@ with open(implicit_list_path, 'r') as file:
 
         mods_index = len(temp_lst)-1
 
+        # Need this because of 2 mod implicits
         while (temp_lst[mods_index]):
             try:
                 val1, val2 = temp_lst[mods_index].split(' ')
@@ -74,9 +75,11 @@ for item in items:
             if items[item][mod]['ilvl'] <= ilvl:
                 ilvl_weight_pools[item][ilvl] += items[item][mod]['weight']
 
+# To be written to .csv
 output = []
 output.append(['item_base', 'mod', 'mod_ilvl', 'ilvl', 'chance_at_ilvl'])
-# Calculate optimal ilvl's for every implicit
+
+# Calculate chances at all ilvl's for every implicit
 for item in items:
     if item == 'default':
         continue
@@ -98,7 +101,4 @@ for item in items:
             
 
 helper.export_list_to_csv(output_file, output)
-
-
-
-#pp.pprint(ilvl_weight_pools)
+print(f'Data output to: {output_file}')

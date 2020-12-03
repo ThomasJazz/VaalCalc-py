@@ -3,5 +3,7 @@
 .vscode/settings.json
 .idea/
 PoE-Tools.code-workspace
-out/vaal_probabilities.csv
 *.code-workspace
+
+# Other
+out/vaal_probabilities.csv
